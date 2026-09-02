@@ -208,6 +208,7 @@ This module addresses a common customization requirement in Odoo Attendance: con
 LGPL-3
 
 ## Author
+Jardel Elias Bernardo
 
 Developed for Odoo customization and community use.
 
@@ -232,3 +233,6 @@ This module extends Odoo's standard:
 * `hr_attendance`
 
 without modifying Odoo core code.
+
+![Employee Profile](hr_employee_picture.png)
+
